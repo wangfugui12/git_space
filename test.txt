@@ -1,3 +1,4 @@
+insert into value	1111111111
 insert into value
 insert into value
 insert into value
@@ -6,8 +7,7 @@ insert into value
 insert into value
 insert into value
 insert into value
-insert into value
-insert into value
+insert into value 
 insert into value
 insert into value
 insert into value
