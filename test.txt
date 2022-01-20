@@ -1,7 +1,7 @@
 insert into value	1111111111
 insert into value	2222222222
-insert into value
-insert into value
+insert into value	3333333333
+insert into value	4444444444
 insert into value
 insert into value
 insert into value
